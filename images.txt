@@ -1,2 +1,1 @@
-nvidia/cuda:12.3.2-cudnn9-runtime-ubuntu20.04
 yuefan2022/tensorrt-ubuntu20.04-cuda11.6:latest
