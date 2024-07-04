@@ -1,2 +1,1 @@
-yuefan2022/tensorrt-ubuntu20.04-cuda11.6:latest
 nvidia/cuda:12.3.2-cudnn9-devel-ubuntu20.04
